@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0165/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大勝金剛佛頂念誦儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0980.xml
+    old_id: T19n0980
+hash: sha256:a960613e3cbb77520bc1220c709f214e11d64df8dbb931bb9ead179afdc8d095

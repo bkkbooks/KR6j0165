@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0165/v1
+canonical_location: https://kanripo.org/bkk/KR6j0165/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大勝金剛佛頂念誦儀軌
+  identifiers:
+    alt_id:
+    - T19n0980
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0980.xml
+    old_id: T19n0980
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0165_000.yaml, hash: 'sha256:a960613e3cbb77520bc1220c709f214e11d64df8dbb931bb9ead179afdc8d095'}
+  - {seq: 1, filename: KR6j0165_001.yaml, hash: 'sha256:79b1c6e35284d4ab487b4421caaafc69721462d10867024b7e55048c7d604aac'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0165_001.markers.yaml, hash: 'sha256:d558e9b315ef5ee75d874f72e559d5038266aa6764c2ccfc361e30c2394dee0c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0165_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 697
+  label: 大勝金剛佛頂念誦儀軌
+  type: juan
+  level: 1
+hash: sha256:1c9e6ef646f41232ebb7ceda6b5ec82802db70a0c8ec53a9521eaf8846aab716
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
