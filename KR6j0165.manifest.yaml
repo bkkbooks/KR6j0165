@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0165_000.yaml, hash: 'sha256:a960613e3cbb77520bc1220c709f214e11d64df8dbb931bb9ead179afdc8d095'}
-  - {seq: 1, filename: KR6j0165_001.yaml, hash: 'sha256:79b1c6e35284d4ab487b4421caaafc69721462d10867024b7e55048c7d604aac'}
+  - {seq: 1, filename: KR6j0165_001.yaml, hash: 'sha256:45a0267de20fef45f7f379c3f22eb4be931118a16a33ff268b86c55e215fa13f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0165_001.markers.yaml, hash: 'sha256:d558e9b315ef5ee75d874f72e559d5038266aa6764c2ccfc361e30c2394dee0c'}
+  - {seq: 0, role: markers, filename: assets/KR6j0165_000.markers.yaml, hash: 'sha256:bb23a17b81c1b1161c5f55434f0e1c78377ead7c9c3c226e28363e19429f0e2d'}
+  - {seq: 1, role: markers, filename: assets/KR6j0165_001.markers.yaml, hash: 'sha256:e0b3dacf65975b82071dd824f6cd7911ce38c2aeabe4ea87be211c742b1b25da'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 大勝金剛佛頂念誦儀軌
   type: juan
   level: 1
-hash: sha256:1c9e6ef646f41232ebb7ceda6b5ec82802db70a0c8ec53a9521eaf8846aab716
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:88c6d5e47a3ad24a5697bcd08acbf71abe32b091e663d29a9946fe0026c72917
