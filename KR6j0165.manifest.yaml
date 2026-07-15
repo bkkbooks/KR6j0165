@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0165/v1
 canonical_location: https://kanripo.org/bkk/KR6j0165/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大勝金剛佛頂念誦儀軌
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0165_000.yaml, hash: 'sha256:a960613e3cbb77520bc1220c709f214e11d64df8dbb931bb9ead179afdc8d095'}
-  - {seq: 1, filename: KR6j0165_001.yaml, hash: 'sha256:45a0267de20fef45f7f379c3f22eb4be931118a16a33ff268b86c55e215fa13f'}
+  - {seq: 1, filename: KR6j0165_001.yaml, hash: 'sha256:256d414667947ade68b46ca4a554c33b34b3fe6154a232d231772f64a49b3081'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0165_000.markers.yaml, hash: 'sha256:bb23a17b81c1b1161c5f55434f0e1c78377ead7c9c3c226e28363e19429f0e2d'}
-  - {seq: 1, role: markers, filename: assets/KR6j0165_001.markers.yaml, hash: 'sha256:e0b3dacf65975b82071dd824f6cd7911ce38c2aeabe4ea87be211c742b1b25da'}
+  - {seq: 1, role: markers, filename: assets/KR6j0165_001.markers.yaml, hash: 'sha256:ce87d9276867052b0a352d5434d54f9461d411ee8ddb32a48397cf1bf54844d3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 大勝金剛佛頂念誦儀軌
   type: juan
   level: 1
-hash: sha256:88c6d5e47a3ad24a5697bcd08acbf71abe32b091e663d29a9946fe0026c72917
+hash: sha256:6edb500cd8bb7fa21eef295720894498fd9d6d9fb7554bbfa172c76e7f2d0ea6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
